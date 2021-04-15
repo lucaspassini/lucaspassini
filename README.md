@@ -2,7 +2,6 @@
 
 Enthusiast on learning and applying my knowledge on mobile development technologies.
 
-- Living in 🇧🇷
 - 💻Currently learning Flutter and mobile development. 
 - 📫 How to reach me:  
 
