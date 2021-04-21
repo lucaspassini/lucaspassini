@@ -1,4 +1,4 @@
-### Hey, I'm Lucas Passini! 👋
+### Hi there, I'm Lucas Passini! 👋
 
 Enthusiast on learning and applying my knowledge on mobile development technologies.
 
