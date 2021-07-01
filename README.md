@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lucas Passini 
+I'm Lucas 
 
 Enthusiast on learning and applying my knowledge on mobile development technologies.
 
