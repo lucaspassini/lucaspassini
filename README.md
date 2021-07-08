@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lucas 
+I'm Lucas,
 
 Enthusiast on learning and applying my knowledge on mobile development technologies.
 
