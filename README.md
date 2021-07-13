@@ -3,7 +3,7 @@ I'm Lucas,
 
 Enthusiast on learning and applying my knowledge on mobile development technologies.
 
-- 💻 Currently learning Flutter and mobile development. 
+- 💻 Currently learning web and mobile development. 
 - 📫 How to reach me:  
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspassini/)](https://www.linkedin.com/in/lucaspassini/) 
