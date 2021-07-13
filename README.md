@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Lucas,
 
-Enthusiast on learning and applying my knowledge on mobile development technologies.
+Enthusiast on learning and applying my knowledge on development technologies.
 
 - 💻 Currently learning web and mobile development. 
 - 📫 How to reach me:  
