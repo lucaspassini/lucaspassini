@@ -1,5 +1,4 @@
-### Hi there! 👋
-I'm Lucas,
+### Hi there, I'm Lucas 👋
 
 Enthusiast on learning and applying my knowledge on development technologies.
 
