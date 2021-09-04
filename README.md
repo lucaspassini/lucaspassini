@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Cristiano Passini 👋
+### Hi there, I'm Lucas 👋
 
 Enthusiast on learning and applying my knowledge on development technologies.
 
