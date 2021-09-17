@@ -2,13 +2,14 @@
 
 Enthusiast in learning and applying my knowledge on development technologies.
 
-- 💻 Currently learning React.js and Next.js.
+- 📚 Currently studying React.js and Next.js.
 - 📫 How to reach me:  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspassini/)](https://www.linkedin.com/in/lucaspassini/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/lucaspassini_)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.passini1@gmail.com)](mailto:lucas.passini1@gmail.com)
 
-![ReactJS](https://img.icons8.com/color/30/react-native.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png)![Git](https://img.icons8.com/color/30/git.png) ![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)  
+![ReactJS](https://img.icons8.com/color/30/react-native.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png)![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspassini&theme=)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspassini&theme=dark)
+![icons8-github-30](https://user-images.githubusercontent.com/47937044/133753955-f3dbd976-ac7f-4bc9-87de-6034ad7ec506.png)
