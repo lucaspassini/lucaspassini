@@ -12,4 +12,4 @@ Enthusiast in learning and applying my knowledge on development technologies.
 ![ReactJS](https://img.icons8.com/color/30/react-native.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png)![Git](https://img.icons8.com/color/30/git.png) ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspassini&theme=dark)
-![icons8-github-30](https://user-images.githubusercontent.com/47937044/133753955-f3dbd976-ac7f-4bc9-87de-6034ad7ec506.png)
+
