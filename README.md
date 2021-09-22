@@ -1,6 +1,6 @@
-### Hi there, I'm Lucas 👋
+### 👋 Hi there, 
 
-Enthusiast in learning and applying my knowledge on development technologies.
+I'm Lucas, a Front-end Developer, Enthusiast in learning and applying my knowledge on development technologies.
 
 - 📚 Currently studying React.js and Next.js.
 - 📫 How to reach me:  
