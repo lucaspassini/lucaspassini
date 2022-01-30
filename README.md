@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Lucas. 
 
-I'm a 22 years old front-end developer. I'm an enthusiast of technology and seeking to learn about new things in the software development field.
+I'm a 22 years old front-end developer. I'm an enthusiast of technology and always seeking to learn about new things in the software development field.
 
 📫 How to reach me:  
 
