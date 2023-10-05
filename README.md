@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Lucas, a front-end developer and designer, crafting clean and functional solutions.
+Developing and designing software, with a focus in crafting clean and functional solutions.
 
 <samp>
     <a href="https://lucaspassini.vercel.app">homepage</a> .
